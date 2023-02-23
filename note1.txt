@@ -1,3 +1,0 @@
-hello from local repo master
-hello from remote repo
-to test pull
